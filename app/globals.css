@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: "Inter", sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
+}
+
+body {
+  background: #0A0E14;
+  color: #F1F3F5;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
