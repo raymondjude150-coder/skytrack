@@ -1,0 +1,10 @@
+{
+  "name": "SkyTrack",
+  "short_name": "SkyTrack",
+  "description": "Habits, tracked properly.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0E14",
+  "theme_color": "#0A0E14",
+  "icons": []
+}
